@@ -1,0 +1,7 @@
+com\skillmatch\backend\SkillmatchBackendApplication.class
+com\skillmatch\backend\model\Job.class
+com\skillmatch\backend\model\User.class
+com\skillmatch\backend\controller\JobController.class
+com\skillmatch\backend\model\Skill.class
+com\skillmatch\backend\repository\JobRepository.class
+com\skillmatch\backend\service\JobService.class
